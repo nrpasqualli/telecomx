@@ -1,10 +1,3 @@
-Ótima base 👏!
-Vou deixar seu texto mais **claro, estruturado e profissional**, mantendo o estilo de um **README de projeto de análise de dados** no padrão da Alura.
-
-Aqui está a versão melhorada:
-
----
-
 # 📊 Análise de Evasão de Clientes (Churn) da TelecomX
 
 Este notebook apresenta uma **análise exploratória de dados (EDA)** aplicada ao conjunto de clientes da **TelecomX**, com foco em identificar **padrões associados à evasão de clientes (Churn)** e gerar **insights de negócio** para apoiar estratégias de retenção.
@@ -85,6 +78,3 @@ A seção **“📄 Relatório Final”** dentro do notebook apresenta uma anál
 
 ---
 
-👉 Esse formato deixa o projeto com “cara de portfólio” e valoriza tanto a parte técnica quanto os **insights de negócio**.
-
-Quer que eu monte também um **resumo visual** (exemplo: gráfico de importância de variáveis no churn + tabela comparativa) para deixar o README ainda mais atraente?
